@@ -1,5 +1,0 @@
-include
-
-pragma
-
-main
